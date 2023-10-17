@@ -1,4 +1,4 @@
-package br.com.fescfafic.JogoDoBicho.Main;
+package br.com.fescfafic.sistemaescola.Main;
 
 public class Main {
     public static void main(String[] args) {
