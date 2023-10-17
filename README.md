@@ -1,3 +1,3 @@
 # Atividade Projeto com interface/implements/contratos
-## Projeto Jogo do Bicho
+## Projeto Sistema Escola
 ### Jefferson de Souza Gonçalves
