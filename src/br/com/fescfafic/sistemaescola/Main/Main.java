@@ -21,7 +21,7 @@ public class Main {
 
         sistemaAutenticacao.login(aluno);
         aluno.visulizarBoletim();
-        aluno.logout();
+        sistemaAutenticacao.logout(aluno);
         System.out.println();
 
         sistemaFinanceiro.emitirBoleto(secretario);
